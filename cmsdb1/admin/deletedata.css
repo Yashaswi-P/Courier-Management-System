@@ -1,0 +1,14 @@
+td{
+    background-color: aliceblue;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+    transform: 0.4s;
+    }
+    a:hover{
+        background:lightgreen;
+        border-radius: 8px;
+    }

@@ -1,0 +1,76 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+ }
+ body
+ {background:
+    url('https://i.pinimg.com/736x/95/e9/eb/95e9eb8faa14dbe53e2a2675b07e890f.jpg');
+    background-repeat: no-repeat;
+    background-size:100%;
+    align-items: center;
+   
+}
+form input[type="email"]{
+    width: 100%;
+    padding: 10px  10px;
+    margin: 10px 0;
+    outline: none;
+    border: none;
+    background:rgba(0,0,0,0.1);
+}
+form input[type="password"]{
+    width: 100%;
+    padding: 10px  10px;
+    margin: 10px 0;
+    outline: none;
+    border: none;
+    background:rgba(0,0,0,0.1);
+}
+form input[type="number"]{
+    width: 100%;
+    padding: 10px  10px;
+    margin: 10px 0;
+    outline: none;
+    border: none;
+    background:rgba(0,0,0,0.1);
+}
+form input[type="text"]{
+    width: 100%;
+    padding: 10px  10px;
+    margin: 10px 0;
+    outline: none;
+    border: none;
+    background:rgba(0,0,0,0.1);
+}
+.box
+{
+    background: white;
+    width: 470px;
+    height: 600px;
+    align-self:inherit;
+    top:5%;
+    right: 50%;
+    left: 40%;
+    padding: 30px;
+    border-radius: 8px;
+    border: solid gray 1px;  
+}
+form{
+    width: 100%;
+}
+form input[type="submit"]{
+    outline: none;
+    border: none;
+    background: #e84393;
+    color: white;
+    cursor: pointer;
+    transition: 0.4s;
+
+}
+form input[type="submit"]:hover{
+background: transparent;
+border: 1px solid gray;
+color: black;
+}

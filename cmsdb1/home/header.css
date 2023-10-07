@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+    color: white;
+    padding: 2px 8px;
+    font-size: 20px;
+    transform: 0.4s;
+}
+a:hover{
+    background:skyblue;
+    border-radius: 8px;
+}
+#navi a{
+    background:lightskyblue;
+    text-decoration: none;
+    color: black;
+    padding: 2px 8px;
+    font-size: 20px;
+    transform: 0.4s;
+}
+#navi a:hover{
+    background:skyblue;
+    border-radius: 8px;
+}

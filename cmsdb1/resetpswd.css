@@ -1,0 +1,93 @@
+.box
+{
+    background: white;
+    width: 400px;
+    height: 450px;
+    align-self:inherit;
+    top:15%;
+    : 5%;
+    left: 40%;
+    padding: 30px;
+    border-radius: 8px;
+    border: solid gray 1px;  
+    background:
+    
+}
+.box1
+{
+   
+        border: solid gray 1px;  
+        width:25%;  
+        border-radius: 8px;  
+        margin: 120px auto;  
+        background: white;  
+        padding: 50px;  
+    
+}
+h1{ font-size:30px;
+    font-weight: bold;
+    color:yellow;
+    font-family:'Times New Roman', Times, serif"
+}
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+ }
+body{background:
+    url('https://i.pinimg.com/736x/95/e9/eb/95e9eb8faa14dbe53e2a2675b07e890f.jpg');
+    background-repeat: no-repeat;
+    background-size:100%;
+   
+}
+form{
+    width: 100%;
+}
+form input[type="email"]{
+    width: 100%;
+    padding: 10px  10px;
+    margin: 10px 0;
+    outline: none;
+    border: none;
+    background:rgba(0,0,0,0.1);
+}
+form input[type="password"]{
+    width: 100%;
+    padding: 10px  10px;
+    margin: 10px 0;
+    outline: none;
+    border: none;
+    background:rgba(0,0,0,0.1);
+}
+form input[type="submit"]{
+    outline: none;
+    border: none;
+    background:gold;
+    color: white;
+    cursor: pointer;
+    padding: 10px  10px;
+    transition: 0.4s;
+width: 100%;
+}
+form input[type="submit"]:hover{
+background: transparent;
+border: 1px solid gray;
+color: black;
+}
+a{
+    float: right; 
+    margin-right:40px;  
+    margin-top:0px;
+    text-decoration: none;
+    color:white;
+    padding: 10px 20px;
+    font-size: 20px;
+    transform: 0.4s;
+    background: gray;
+    border-radius: 8px;
+}
+ a:hover{
+    background:lightblue;
+    border-radius: 8px;
+}

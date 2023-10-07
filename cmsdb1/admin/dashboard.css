@@ -1,0 +1,56 @@
+body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5aSBsHNVJuvWcFxvJU--Npy-t6nXgF_nTjVOtn3LJcliZwtf3pULVx_FpY-aI3O9mcCE&usqp=CAU');
+    background-size: cover;
+
+    }
+  .admintitle  a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+    transform: 0.4s;
+    }
+    .box  a{
+        text-decoration: none;
+        color:black;
+        width: 100%;
+        margin: 10px 0;
+        outline: none;
+        border: none;
+        background:greenyellow;
+        padding: 10px 20px;
+        font-size: 20px;
+        transform: 0.4s;
+    }
+    label{
+        text-decoration: none;
+        text-align: left;
+        color:black;
+        width: 100%;
+        margin: 10px 0;
+        outline: none;
+        border: none;
+        padding: 10px 20px;
+        font-size: 20px;
+    }
+    
+    a:hover{
+        background:lightgreen;
+        border-radius: 8px;
+    }
+.box
+   {
+    top:10%;
+    background: lightgoldenrodyellow;
+    width: 350px;
+    height: 350px;
+    align-content: center;
+    padding: 30px;
+    border-radius: 8px;
+    margin: auto;
+    border: solid gray 1px;  
+}
+
+form{
+    width: 100%;
+}
